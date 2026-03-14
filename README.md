@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Omar (@omidev)
 
-![BannerG](https://github.com/omidev/omidev/assets/153705582/0949c262-d2be-400a-b2da-0460b7db07ab)
+![BannerG](https://github.com/OmarQV/OmarQV/assets/153705582/0949c262-d2be-400a-b2da-0460b7db07ab)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Omar;🚀+Blockchain+Developer;🛡️+Ethical+Hacker;💻+Full+Stack+Engineer;🔒+Security+Specialist" alt="Typing SVG" />
@@ -39,7 +39,7 @@ const Omar = {
     goals2026: "Contribute to major DeFi protocols & scale my dApps",
     motto: "Code with purpose, secure by design 🔐"
 };
-
+```
 
 ### 🎯 **Especialidades**
 
