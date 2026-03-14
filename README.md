@@ -23,8 +23,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🚀 **Sobre Mí**
 
 ```typescript
@@ -104,6 +102,8 @@ const Omar = {
 
 ## 📈 **Roadmap 2026-2027**
 
+## 📈 **Roadmap 2026-2027**
+
 ```mermaid
 graph LR
     A[Q1 2026: DApp Mastery] --> B[Q2 2026: Security Certs]
@@ -122,6 +122,7 @@ graph LR
     
     D1[Immunefi Bounties] --> D
     D2[Security Research] --> D
+```
 
 ## 🔥 **Skills in Action**
 
