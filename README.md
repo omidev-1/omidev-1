@@ -63,7 +63,7 @@ const omidev = {
 
  motto: "Code with purpose • Secure by design"
 }
-```typescript
+```
 
 ## 🛠 Tech Stack
 
