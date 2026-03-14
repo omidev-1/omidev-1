@@ -15,7 +15,9 @@
   <img src="https://img.shields.io/github/stars/omidev?label=Stars&style=for-the-badge&color=yellow" alt="GitHub stars" />
 </div>
 
+---
 <br>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ## 🚀 **Sobre Mí**
